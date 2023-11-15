@@ -1,6 +1,7 @@
-### Hi there 👋 , I'm Weam Waheed
 
-<div>
+
+<div id="header" align="center">
+  <h2>Hi there 👋 , I'm Weam Waheed</h2>
   <img src="https://cdn3d.iconscout.com/3d/premium/thumb/web-developer-4506461-3738664.png" width="20%"/>
 </div>
 <!--
