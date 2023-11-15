@@ -1,7 +1,7 @@
 ### Hi there 👋 , I'm Weam Waheed
 
 <center>
-  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/web-developer-4506461-3738664.png"/>
+  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/web-developer-4506461-3738664.png" width="20%"/>
 </center>
 <!--
 **weam-waheed2/weam-waheed2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
