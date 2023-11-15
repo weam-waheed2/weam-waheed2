@@ -1,7 +1,8 @@
-
-
 <div id="header" align="center">
-  <h2>Hi there 👋 , I'm Weam Waheed</h2>
+  <h1>Hi there , I'm Weam Waheed</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</div>
+<div id="header" align="center">
   <img src="https://cdn3d.iconscout.com/3d/premium/thumb/web-developer-4506461-3738664.png" width="20%"/>
 </div>
 <div id="badges" align="center">
